@@ -1,0 +1,18 @@
+Subject: 
+Security Alert: Suspicious Login Attempt Detected 
+
+Email Body Reviewed: 
+
+Dear Customer, 
+We detected a suspicious login attempt on your PayPal account from an 
+unknown device. 
+
+For your protection, your account has been temporarily limited. 
+To restore full access, please confirm your identity immediately: 
+http://paypal-account-verification[.]com 
+
+If no action is taken within 24 hours, your account may be permanently 
+suspended. 
+
+Thank you, 
+PayPal Security Team 
